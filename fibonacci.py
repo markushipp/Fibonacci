@@ -19,4 +19,4 @@ def fibonacci_generator(n):
 
 
 # print(fibonacci(10))  
-print(list(fibonacci_generator(10)))
+# print(list(fibonacci_generator(10)))
